@@ -1,6 +1,7 @@
-# mesa libraries for core20 snaps
+# nvidia and mesa libraries for core20 snaps
 
-A content snap providing the mesa userspace libraries and drivers for core20
+A content snap providing the nvidia and mesa userspace libraries and
+drivers for core20
 
 This supplies the graphics-core20 content interface:
 
