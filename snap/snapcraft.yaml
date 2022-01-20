@@ -21,6 +21,7 @@ parts:
       - va-driver-all
       - libegl1
       - libgles2
+      - libnvidia-egl-wayland1
       - libnvidia-cfg1-470-server
       - libnvidia-common-470-server
       - libnvidia-compute-470-server
