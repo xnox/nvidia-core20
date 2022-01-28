@@ -14,6 +14,9 @@ This supplies the graphics-core20 content interface:
 
 ----
 
+For details on how to get NVIDIA drivers see
+[NVIDIA-assemble](https://github.com/xnox/nvidia-assemble) snap.
+
 For details of the graphics-core20 content interface see:
 
 https://discourse.ubuntu.com/t/the-graphics-core20-snap-interface/23000
